@@ -37,7 +37,7 @@ All of the work in this repo is done in Jupyter notebooks (see `/notebooks`):
 
 The final dashboard is hosted on Tableau Public:
 
-- **Dashboard:** <link-to-your-Tableau-Public-viz>
+- **Dashboard:** <https://public.tableau.com/app/profile/dani.valades/viz/ShoppingMallAdsDashboard/Dashboard1?publish=yes>
 
 It shows:
 - Top-level KPIs (Revenue, Cost, P&L, Impressions, CTR, CPA, Impression-to-Conversion Rate).
